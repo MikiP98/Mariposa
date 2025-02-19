@@ -10,6 +10,6 @@
       "mariposa:giant_sequoia_6",
       "mariposa:giant_sequoia_7"
     ],
-    "min_floor_corners_allowed": 4
+    "min_floor_corners_allowed": 3
   }
 }
